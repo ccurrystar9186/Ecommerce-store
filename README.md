@@ -1,7 +1,7 @@
 # Ecommerce-store
 This assignment came with starter code, which included the config, db, and seeds folders. I added code to the models and routes folders' files, which connected the e-commerce database to the server.
 
-Click on this link to see a live demo of testing the API routes with postmam.
+Click on this link https://drive.google.com/file/d/1jn1v88airfCRwSCeJN0MA1Bgkrm9wR6B/view to see a live demo of testing the API routes with postman.
 
 Installation
 Run npm i in your terminal to install all of this repo's dependencies. The dependencies are:
