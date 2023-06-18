@@ -1,5 +1,5 @@
 # Ecommerce-store
-his assignment came with starter code, which included the config, db, and seeds folders. I added code to the models and routes folders' files, which connected the e-commerce database to the server.
+This assignment came with starter code, which included the config, db, and seeds folders. I added code to the models and routes folders' files, which connected the e-commerce database to the server.
 
 Click on this link to see a live demo of testing the API routes with Insomnia.
 
