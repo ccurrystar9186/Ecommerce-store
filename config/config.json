@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "ecommerce_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "ecommerce_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "ecommerce_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
